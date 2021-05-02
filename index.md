@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Home
 
-You can use the [editor on GitHub](https://github.com/Sayannil/My-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website! I am **Sayannil Das**. In this website I will give a brief introduction of who I am and what I do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently a UG first year student studying BTech in Civil Engineering from [IIT Bombay](https://www.iitb.ac.in/).
 
-```markdown
-Syntax highlighted code block
+I live in Powai, Mumbai and my hometown is Kolkata.
 
-# Header 1
-## Header 2
-### Header 3
+I have studied at [Pace Junior Science College](https://www.pacejuniorsciencecollege.com/pace-jr-science-college-andheri.php) in 11th and 12th std
+and at [R.N Podar School](https://www.rnpodarschool.com/) in classes 3rd to 10th.
 
-- Bulleted
-- List
+Before that I used to stay in the United States. I lived in Jersey City, NJ and used to attend the school [PS#16](https://ps16.jcboe.org/).
 
-1. Numbered
-2. List
+### What do I know
 
-**Bold** and _Italic_ and `Code` text
+1. Well versed in Physics, Chemistry and Mathematics till 12th standard of JEE Advanced Level.
+2. Fluent in coding in JavaScript and **C++** languages.
+3. Apt in Finance and Financial Modelling having done courses in these fields.
+4. Knowledgeable about Indian and World History, Politics and Current affairs.
+5. Speak in **English**, **French** and German(still learning).
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Interests
 
-### Jekyll Themes
+1. Love debating and interacting with new people online as well as offline.
+2. Interested in Managerial and Networking roles.
+3. Learning Stock Market and Trading from SoS in MnP Club.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sayannil/My-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Past Time Favourites
 
-### Support or Contact
+I play outdoor sports like Cricket, Football and Badminton and indoor games like Chess and Carrom.
+I am a huge [MCU](https://www.marvel.com/) Fan. And I can say I have watched all the 23 films and 2 shows _in an immersive manner_. 
+I am a gamer, and I play games in my freetime and I am currently playing the game [Last Day on Earth: Survival](https://last-day-on-earth-survival.fandom.com/wiki/Last_Day_on_Earth:_Survival_Wiki).
+I also bingewatch movieclips and funny channels (vines) on Youtube.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### How to Connect with me
+
+You can ask any doubts about things I know. _e.g JEE_
+
+You can just follow me on [Quora](https://www.quora.com/profile/Sayannil-Das-1) or send a connection request on [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/)
+stating you have queries to ask.
+
+And if I know you personally send a friend request on [Facebook](https://www.facebook.com/sayannil.das/) or a follow request on [Instagram](https://www.instagram.com/worldofsayannil/).
+
+Thank You for bearing with me for so long and have a Good Day!
