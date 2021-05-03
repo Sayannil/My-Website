@@ -49,3 +49,10 @@ stating you have queries to ask.
 And if I know you personally send a friend request on [Facebook](https://www.facebook.com/sayannil.das/) or a follow request on [Instagram](https://www.instagram.com/worldofsayannil/).
 
 Thank You for bearing with me for so long and have a Good Day!
+
+<table>
+    <tr>
+        <td>You are visitor</td>
+        <td><img src="https://profile-counter.glitch.me/My-Website/count.svg" alt="vistor count" height="50" /></td>
+    </tr>
+</table>
