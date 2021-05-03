@@ -33,7 +33,7 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 
 1. I play outdoor sports like Cricket, Football and Badminton and indoor games like Chess and Carrom.
 2. I am a huge [MCU](https://www.marvel.com/) Fan. And I can say I have watched all the 23 films and 2 shows _in an immersive manner_. 
-3. Play Online chess tournaments in [Lichess](https://lichess.org/)
+3. Play Online chess tournaments in [Lichess](https://lichess.org/).
 4. I also bingewatch movieclips and funny and educational channels on Youtube.
 
 ### How to Connect with me
