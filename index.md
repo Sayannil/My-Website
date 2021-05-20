@@ -23,17 +23,19 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 5. Speak in **English**, **French** and German (still learning). In **Bengali** and Hindi I have native proficiency. 
 
 
-### Interests
+### Interests and Work
 
 1. Love debating and interacting with new people online as well as offline.
-2. Interested in Managerial and Networking roles (like being a Convenor).
-3. Learning Stock Market and Trading from SoS in MnP Club in my College.
-4. Write stories,anecdotes and experiences in free time or on social media.
+2. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/)
+3. Interested in Managerial and Networking roles.
+4. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College.
+5. Enthusiastic about research and that's why I applied for internship under a professor.
+6. Write stories,anecdotes and experiences in free time or on social media.
 
 ### Past Time Favourites
 
-1. I play outdoor sports like Cricket, Football and Badminton and indoor games like Chess and Carrom.
-2. I am a huge [MCU](https://www.marvel.com/) Fan. And I can say I have watched all the 23 films and 2 shows _in an immersive manner_. 
+1. I play outdoor sports like Cricket, Football and Badminton and indoor games like Chess, Monopoly and Carrom.
+2. I am a huge [MCU](https://www.marvel.com/) Fan. And I can say I have watched all the 23 films and 2 TV shows _in an immersive manner_. 
 3. Play Online chess tournaments in [Lichess](https://lichess.org/).
 4. I also bingewatch movieclips and funny, factual or experimental channels on Youtube.
 
