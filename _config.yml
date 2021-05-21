@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+# bundle exec jekyll serve
+# Name of website
+title: Sayannil Das
