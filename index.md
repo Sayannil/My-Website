@@ -2,8 +2,8 @@
 layout: page
 title: My Website
 subtitle: Sayannil Das
-image: img/https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-thumb-960483242-200-zktpdfhuyuuieebgarqwwguylbvmgbtq.jpeg&imgrefurl=https%3A%2F%2Fwww.quora.com%2Fprofile%2FSayannil-Das-1&tbnid=DuYv2m-kLEdj3M&vet=12ahUKEwjjkeWehdvwAhWxwXMBHRbHC7EQMygAegQIARA8..i&docid=1HYg3ACRI5_WpM&w=200&h=200&q=sayannil%20das&ved=2ahUKEwjjkeWehdvwAhWxwXMBHRbHC7EQMygAegQIARA8
 ---
+
 ## Introduction
 
 Welcome to my website! I am **Sayannil Das**. In this website I will give a brief introduction of who I am and what I do.
