@@ -1,4 +1,8 @@
-## Introduction
+---
+layout: page
+title: My Website
+subtitle: Sayannil Das
+---
 
 Welcome to my website! I am **Sayannil Das**. In this website I will give a brief introduction of who I am and what I do.
 
