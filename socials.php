@@ -3,7 +3,6 @@
     global $post;
     
     // Get twitter handle
-    $twitter = get_field('twitter', 'options');
     
     // define links
     $links = array(
