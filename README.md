@@ -43,8 +43,6 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 You can ask any doubts about things I know. _e.g JEE_
 <!-- display the social media buttons in your README -->
 
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[2]: https://www.facebook.com/sayannil.das/
 [![alt text][2.1]][2]
 
 P.S Will you watch **Shang Chi** in theatres or at home?
@@ -58,4 +56,6 @@ P.S Will you watch **Shang Chi** in theatres or at home?
     </tr>
 </table>
 
+[2.1]: http://https://github.com/Sayannil/My-Website/blob/main/Icons/Facebook.png (facebook icon with padding)
+[2]: https://www.facebook.com/sayannil.das/
 
