@@ -61,5 +61,8 @@ P.S Will you watch **Shang Chi**?
     </tr>
 </table>
 
-'facebook'  'linkedin'
+<!-- display the social media buttons in your README -->
+
+[![alt text][2.1]][2]
+
 
