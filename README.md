@@ -56,6 +56,6 @@ P.S Will you watch **Shang Chi** in theatres or at home?
     </tr>
 </table>
 
-[2.1]: https://github.com/Sayannil/My-Website/blob/6ca601afd8612c70313cf67a32d50c88756e0a8f/Icons/Facebook.png (facebook icon with padding)
+[2.1]:  (facebook icon with padding)
 [2]: https://www.facebook.com/sayannil.das/
 
