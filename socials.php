@@ -6,10 +6,10 @@
     
     // define links
     $links = array(
-        'facebook' => 'https://www.facebook.com/sharer/sharer.php?u=' . https://www.facebook.com/sayannil.das/,
+        'facebook' => 'https://www.facebook.com/sayannil.das/.php?u=' . get_permalink(),
         //'twitter'  => 'https://twitter.com/intent/tweet?text='. get_the_title() .'&url='. get_permalink() .'&via='. $twitter,
         //'mail'     => 'mailto:?subject='. get_the_title() .'&body=Take a look at this link - ' . get_permalink(),
-        'linkedin' => 'https://www.linkedin.com/shareArticle?mini=true&url='. https://www.linkedin.com/in/sayannil-das-853b74116/ .'&title='. get_the_title() .'&summary=' . get_the_excerpt(),
+        'linkedin' => 'https://www.linkedin.com/in/sayannil-das-853b74116/?mini=true&url='. get_permalink() .'&title='. get_the_title() .'&summary=' . get_the_excerpt(),
         //'gplus'    => 'https://plus.google.com/share?url=' . get_permalink()
     );
 ?>
