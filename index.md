@@ -63,6 +63,6 @@ P.S Will you watch **Shang Chi**?
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][2.1]][2]
+
 
 
