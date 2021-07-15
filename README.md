@@ -45,7 +45,8 @@ You can ask any doubts about things I know. _e.g JEE_
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
 
 P.S Will you watch **Shang Chi** in theatres or at home?
 
@@ -58,8 +59,10 @@ P.S Will you watch **Shang Chi** in theatres or at home?
     </tr>
 </table>
 
-[1.1]: https://www.flaticon.com/free-icon/linkedin_2111532 (linkedin icon with padding)
-[2.1]: https://www.flaticon.com/free-icon/facebook_2111396 (facebook icon with padding)
+[1.1]: https://www.shareicon.net/data/48x48/2017/05/24/886416_logo_512x512.png (linkedin icon with padding)
+[2.1]: https://www.shareicon.net/data/48x48/2017/05/24/886374_facebook_512x512.png (facebook icon with padding)
+[3.1]: https://www.shareicon.net/data/48x48/2016/06/20/607010_black_128x128.png (quora icon with padding)
+[4.1]: https://www.shareicon.net/data/48x48/2016/11/16/854127_logo_512x512.png (instagram icon with padding)
 
 [1]: https://www.linkedin.com/in/sayannil-das-853b74116/
 [2]: https://www.facebook.com/sayannil.das/
