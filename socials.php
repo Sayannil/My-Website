@@ -1,28 +1,26 @@
-<?php /*
-Name: Social Media Icons Template Part 
-Description: Add Facebook and LinkedIn sharing to your template files with this easy to adapt tempate-part
-Author: Piet Bos
-Author URI: http://wpti.ps
-Instructions: Step 1. Take the code from line 10-36 of this file, paste them into a blank file, save that file as icons-social.php and upload it to your theme's directory. On lines 19 and 21 you need to fill in your Twitter username and on line 24 you need to upload your favourite tweet-button (or grab it from http://a2.twimg.com/a/1319826270/images/goodies/tweetn.png) to the images folder of your theme. Step 2. Take line 39 of this file and paste it into your template files on the place where you want the icons to show up. Step 3. Take the scripts of line 42-49 and paste them in your footer.php file just above the closing </body> tag. Step 4. Style through CSS. NOTE that with the code below you will get 4 working share buttons. If you however want to make adjustments then visit the following pages: Facebook (http://developers.facebook.com/docs/reference/plugins/like/), Twitter (https://dev.twitter.com/docs/tweet-button), Google+ (http://www.google.com/webmasters/+1/button/), LinkedIn (https://developer.linkedin.com/plugins/share-button).
-Version: 1.0
-License: GPLv2
-*/ ?>
-<?php // START Social Media Icons Template Part ?>
-<div class="social_media_icons">
-	<ul>
-		<li class="item facebook">
-			<iframe src="http://www.facebook.com/plugins/like.php?href=<?php https://www.facebook.com/sayannil.das/ ?>&amp;layout=button_count&amp;show_faces=true&amp;width=40&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
-		</li><!-- .facebook -->
-		
-		<li class="item linkedin">
-			<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
-			<script type="IN/Share" data-counter="right"></script>
-		</li><!-- .linkedin -->
-	</ul>
-</div><!-- .social_media_icons -->
-<?php // END Social Media Icons Template Part ?>
+<?php
+    // Get access to $post object
+    global $post;
+    
+    // Get twitter handle
+    $twitter = get_field('twitter', 'options');
+    
+    // define links
+    $links = array(
+        'facebook' => 'https://www.facebook.com/sharer/sharer.php?u=' . https://www.facebook.com/sayannil.das/,
+        //'twitter'  => 'https://twitter.com/intent/tweet?text='. get_the_title() .'&url='. get_permalink() .'&via='. $twitter,
+        //'mail'     => 'mailto:?subject='. get_the_title() .'&body=Take a look at this link - ' . get_permalink(),
+        'linkedin' => 'https://www.linkedin.com/shareArticle?mini=true&url='. https://www.linkedin.com/in/sayannil-das-853b74116/ .'&title='. get_the_title() .'&summary=' . get_the_excerpt(),
+        //'gplus'    => 'https://plus.google.com/share?url=' . get_permalink()
+    );
+?>
 
-<?php // Call template-part by adding the following line to your template: ?>
-<?php get_template_part( 'icons', 'social' ); ?>
-
-<?php // Add to footer.php before closing body tag (</body>) ?>
+<nav class="share" role="menu" aria-label="Share Links">
+    <li class="share__item">
+        <a href="<?php echo $links['facebook']; ?>" class="share__link"><span class="icon icon--xlarge icon--social-fb"></span><span class="is-hidden">Share this Post on Facebook</span></a>
+    </li>
+    <li class="share__item">
+        <a href="<?php echo $links['linkedin']; ?>" class="share__link"><span class="icon icon--xlarge icon--social-li"></span><span class="is-hidden">Share this Post on Linked In</span></a>
+    </li>
+    
+</nav>
