@@ -2,8 +2,6 @@
     // Get access to $post object
     global $post;
     
-    // Get twitter handle
-    
     // define links
     $links = array(
         'facebook' => 'https://www.facebook.com/sayannil.das/.php?u=' . get_permalink(),
