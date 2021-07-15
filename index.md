@@ -23,12 +23,13 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 
 ### Interests and Work
 
-1. Love debating and interacting with new people online as well as offline.
-2. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/).
-3. Interested in Managerial and Networking roles.
-4. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/MidTerm%20Report.pdf) to my work!
-5. Enthusiastic about research and that's why I am working in a project under a professor.
-6. Write stories, anecdotes and experiences in free time or on social media.
+1. Intern at a startup called [Grouple](https://grouple.in/) and I really like my job as a Market Research Analyst.
+2. Love debating and interacting with new people online as well as offline.
+3. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/) and the Events Coordiantor at [Techfest](https://www.techfest.org/).
+4. Interested in Managerial and Networking roles.
+5. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/MidTerm%20Report.pdf) to my work!
+6. Enthusiastic about coding & research and that's why I am working in a project under a professor of [IDC](http://www.idc.iitb.ac.in/) .
+7. Write stories, anecdotes and experiences in free time or on social media.
 
 ### Past Time Favourites
 
@@ -48,7 +49,10 @@ And if I know you personally send a friend request on [Facebook](https://www.fac
 
 Thank You for bearing with me for so long and have a Good Day!
 
-P.S Have you watched Loki?
+
+P.S Will you watch **Shang Chi**?
+
+*Yes, this updates when a new movie/TV series releases in MCU.*
 
 <table>
     <tr>
