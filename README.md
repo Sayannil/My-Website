@@ -61,7 +61,7 @@ P.S Will you watch **Shang Chi** in theatres or at home?
 
 [2]: https://www.facebook.com/sayannil.das/
 
-[2.1]: https://github.com/Sayannil/My-Website/blob/27bd8bd03802a6cf4df8e6426d72805c4627a5a7/Icons/Facebook.png
+[2.1]: Icons/Facebook.png
 
 
 
