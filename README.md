@@ -26,10 +26,10 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 1. Intern at a startup called [Grouple](https://grouple.in/) and I really like my job as a Market Research Analyst.
 2. Love debating and interacting with new people online as well as offline.
 3. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/) and the Events Coordiantor at [Techfest](https://www.techfest.org/).
-4. Interested in Managerial and Networking roles.
+4. Interested in Managerial and Networking roles. Look at [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/) for that.
 5. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/MidTerm%20Report.pdf) to my work!
-6. Enthusiastic about coding & research and that's why I am working in a project under a professor of [IDC](http://www.idc.iitb.ac.in/) .
-7. Write stories, anecdotes and experiences in free time or on social media.
+6. Enthusiastic about coding & research and that's why I am working in a project under a professor of [IDC](http://www.idc.iitb.ac.in/).
+7. Write stories, anecdotes and experiences in free time or on [Quora](https://www.quora.com/profile/Sayannil-Das-1).
 
 ### Past Time Favourites
 
