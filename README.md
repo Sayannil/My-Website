@@ -3,7 +3,7 @@ Welcome to my website! I am **Sayannil Das**. In this website I will give a brie
 
 ### About Me
 
-I am currently a UG first year student studying BTech in Civil Engineering from [IIT Bombay](https://www.iitb.ac.in/).
+I am currently a UG second year student pursuing B.Tech. Honours in Chemical Engineering and Minor in Operations Research from [IIT Bombay](https://www.iitb.ac.in/).
 
 I live in Powai, Mumbai and my hometown is Kolkata.
 
@@ -15,21 +15,24 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 ### What do I know
 
 1. Well versed in Physics, Chemistry and Mathematics till 12th standard of JEE Advanced Level.
-2. Know how to code in JavaScript and **C++** languages. Also I am writing this webpage in HTML and Jekyll Language.
-3. Apt in Finance and Financial Modelling having done courses in these fields.
-4. Knowledgeable about Indian and World History, Politics and Current Affairs.
-5. Speak in **English**, **French** and German (still learning). In **Bengali** and Hindi I have native proficiency. 
+2. Programming Languages I know include: C, **C++**, Python, **SQL**, HTML, **Jekyll** and JavaScript.
+3. Also other technical tools which I know how to operate are **Excel**, **MATLAB** and AutoCAD.
+4. Apt in Finance and Financial Modelling having done courses in these fields.
+5. Knowledgeable about Indian and World History, Politics and Current Affairs.
+6. Speak in **English**, **French** and German (still learning). In **Bengali** and Hindi I have native proficiency. 
 
 
 ### Interests and Work
 
-1. Intern at a startup called [Grouple](https://grouple.in/) and I really like my job as a Market Research Analyst.
-2. Love debating and interacting with new people online as well as offline.
-3. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/) and the Events Coordiantor at [Techfest](https://www.techfest.org/).
-4. Interested in Managerial and Networking roles. Look at [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/) for that.
-5. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/MidTerm%20Report.pdf) to my work!
-6. Enthusiastic about coding & research and that's why I am working in a project under a professor of [IDC](http://www.idc.iitb.ac.in/).
-7. Write stories, anecdotes and experiences in free time or on [Quora](https://www.quora.com/profile/Sayannil-Das-1).
+1. Intern in a startup called [Grouple](https://grouple.in/) and I really like my job as a Market Research Analyst.
+2. Somehow got a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise). I deeply admire both the branches and I hate _Branchism_.
+3. Pursuing a Minor Degree from the department of Industrial Engineering and Operations Research. I chose this branch because it aligns my core knowledge to non core expertise.
+4. Love debating and interacting with new people online as well as offline.
+5. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/) and the Events Coordiantor at [Techfest](https://www.techfest.org/).
+6. Interested in Managerial and Networking roles. Look at [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/) for that.
+7. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/MidTerm%20Report.pdf) to my work in the previous term!
+8. Enthusiastic about coding & research and that's why I am working in a project under a professor of [IDC](http://www.idc.iitb.ac.in/).
+9. Write stories, anecdotes and experiences in free time on [Quora](https://www.quora.com/profile/Sayannil-Das-1).
 
 ### Past Time Favourites
 
