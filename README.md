@@ -1,9 +1,9 @@
-Welcome to my website! I am **Sayannil Das**. In this website I will give a brief introduction of who I am and what I do.
+Welcome to my website! I am **Sayannil Das**. In this website I will give a brief introduction of myself, as in who I am and what I do.
 
 
 ### About Me
 
-I am currently a UG second year student pursuing B.Tech. Honours in Chemical Engineering and Minor in Operations Research from [IIT Bombay](https://www.iitb.ac.in/).
+I am currently a UG second year student pursuing B.Tech. in Chemical Engineering and Minor in Operations Research from [IIT Bombay](https://www.iitb.ac.in/).
 
 I live in Powai, Mumbai and my hometown is Kolkata.
 
@@ -25,7 +25,7 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 ### Interests and Work
 
 1. Intern in a startup called [Grouple](https://grouple.in/) and I really like my job as a Market Research Analyst.
-2. Somehow got a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise). I deeply admire both the branches and I hate _Branchism_.
+2. Somehow secured a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise). I deeply admire both the branches and I hate _Branchism_.
 3. Pursuing a Minor Degree from the department of Industrial Engineering and Operations Research. I chose this branch because it aligns my core knowledge to non core expertise.
 4. Love debating and interacting with new people online as well as offline.
 5. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/) and the Events Coordiantor at [Techfest](https://www.techfest.org/).
