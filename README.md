@@ -30,7 +30,7 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 4. Love debating and interacting with new people online as well as offline.
 5. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/) and the Events Coordiantor at [Techfest](https://www.techfest.org/).
 6. Interested in Managerial and Networking roles. Look at [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/) for that.
-7. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/MidTerm%20Report.pdf) to my work in the previous term!
+7. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/EndTerm%20Report.pdf) to my work in the previous term!
 8. Enthusiastic about coding & research and that's why I am working in a project under a professor of [IDC](http://www.idc.iitb.ac.in/).
 9. Write stories, anecdotes and experiences in free time on [Quora](https://www.quora.com/profile/Sayannil-Das-1).
 
