@@ -24,8 +24,8 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 
 ### Interests and Work
 
-1. Intern in a startup called [Grouple](https://grouple.in/) and I really like my job as a Market Research Analyst.
-2. Somehow secured a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise). I deeply admire both the branches and I hate _Branchism_.
+1. I was an intern in a startup called [Grouple](https://grouple.in/) and I liked my work being a Market Research Analyst.
+2. Somehow secured a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise).
 3. Pursuing a Minor Degree from the department of Industrial Engineering and Operations Research. I chose this branch because it aligns my core knowledge to non core expertise.
 4. Love debating and interacting with new people online as well as offline.
 5. I am also the Public Relations and Marketing Coordinator of [Mood Indigo](https://www.moodi.org/) and the Events Coordiantor at [Techfest](https://www.techfest.org/).
@@ -36,10 +36,11 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 
 ### Past Time Favourites
 
-1. I play outdoor sports like Cricket, Football and Badminton and indoor games like Chess, Monopoly and Carrom.
-2. I am a huge [MCU](https://www.marvel.com/) Fan. And I can say I have watched all the 23 films and 2 TV shows _in an immersive manner_. 
-3. Play Online chess tournaments in [Lichess](https://lichess.org/).
-4. I also bingewatch movieclips and funny, factual or experimental channels on Youtube.
+1. I am a professional past time **numismatist**. I love collecting and bidding antique coins of different regions, timelines and denominations around the world.
+2. I play outdoor sports like Cricket, Football and Badminton and indoor games like Chess, Monopoly and Carrom.
+3. I am a huge [MCU](https://www.marvel.com/) Fan. And I can say I have watched all the 23 films and 2 TV shows _in an immersive manner_. 
+4. Play Online chess tournaments in [Lichess](https://lichess.org/).
+5. I also bingewatch movieclips and funny, factual or experimental channels on Youtube.
 
 ### How to Connect with me
 
