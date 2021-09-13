@@ -28,7 +28,7 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 2. Somehow secured a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise).
 3. Pursuing a Minor Degree from the department of Industrial Engineering and Operations Research. I chose this branch because it aligns my core knowledge to non core expertise.
 4. Love debating and interacting with new people online as well as offline.
-5. I am also the Events Coordiantor at [Techfest](https://www.techfest.org/).
+5. I am also the Events Coordinator at [Techfest](https://www.techfest.org/).
 6. Interested in Managerial and Networking roles. Look at [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/) for that.
 7. Learning Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/EndTerm%20Report.pdf) to my work in the previous term!
 8. Enthusiastic about coding & research and that's why I am working in a project under a professor of [IDC](http://www.idc.iitb.ac.in/).
