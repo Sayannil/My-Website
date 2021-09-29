@@ -15,7 +15,7 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 ### What do I know
 
 1. Well versed in Physics, Chemistry and Mathematics till 12th standard of JEE Advanced Level.
-2. Programming Languages I know include: C, **C++**, Python, **SQL**, HTML, **Jekyll** and JavaScript.
+2. Programming Languages I know include: C, **C++**, HTML, **Python**, **SQL**, Jekyll and JavaScript.
 3. Also other technical tools which I know how to operate are **Excel**, **MATLAB** and AutoCAD.
 4. Apt in Finance and Financial Modelling having done courses in these fields.
 5. Knowledgeable about Indian and World History, Politics and Current Affairs.
