@@ -38,7 +38,7 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 
 1. I am a professional, part-time **numismatist**. I love collecting and bidding antique coins of different regions, timelines and denominations around the world.
 2. I play outdoor sports like Cricket, Football and Badminton and indoor games like Monopoly and Carrom.
-3. Chess was my favourite hobby. I held 2nd and 4th position in New Jersey State Chess Championship in 2008 and 2009.
+3. Chess is my favourite hobby. I held 2nd and 4th position in New Jersey State Chess Championship in 2008 and 2009.
 4. I am a huge [MCU](https://www.marvel.com/) Fan. And I can say I have watched all the 23 films and 2 TV shows _in an immersive manner_. 
 5. Play Online chess tournaments in [Lichess](https://lichess.org/).
 6. I also bingewatch movieclips and funny, factual or experimental channels on Youtube.
