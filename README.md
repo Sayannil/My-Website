@@ -22,17 +22,21 @@ Before that I used to stay in the United States. I lived in Jersey City, NJ and 
 6. Speak in **English**, **French** and German (still learning). In **Bengali** and Hindi I have native proficiency. 
 
 
-### Interests and Work
+### Interests 
+ 
+1. Pursuing a Minor Degree from the department of Industrial Engineering and Operations Research. I chose this branch because it aligns my core knowledge to non core expertise.
+2. Love debating and interacting with new people online as well as offline.
+3. Interested in Managerial and Networking roles. Look at [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/) for that.
+4. Enthusiastic about coding & research and that's why I have worked in a project under a professor of [IDC](http://www.idc.iitb.ac.in/).
+5. Write stories, anecdotes and experiences in free time on [Quora](https://www.quora.com/profile/Sayannil-Das-1).
 
-1. I was an intern in a startup called [Grouple](https://grouple.in/) and I liked my work being a Market Research Analyst.
-2. Somehow secured a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise).
-3. Pursuing a Minor Degree from the department of Industrial Engineering and Operations Research. I chose this branch because it aligns my core knowledge to non core expertise.
-4. Love debating and interacting with new people online as well as offline.
-5. I am also the Events Coordinator at [Techfest](https://www.techfest.org/).
-6. Interested in Managerial and Networking roles. Look at [LinkedIn](https://www.linkedin.com/in/sayannil-das-853b74116/) for that.
-7. Learned Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/EndTerm%20Report.pdf) to my work in the previous term!
-8. Enthusiastic about coding & research and that's why I have worked in a project under a professor of [IDC](http://www.idc.iitb.ac.in/).
-9. Write stories, anecdotes and experiences in free time on [Quora](https://www.quora.com/profile/Sayannil-Das-1).
+### Work
+
+1. Somehow secured a Branch Change from Civil Engineering to Chemical Engineering (which was a surprise).
+2. I was an intern in a startup called [Grouple](https://grouple.in/) and held the position of a Market Research Analyst.
+3. I am also the Events Coordinator at [Techfest](https://www.techfest.org/) and an Interview Coordinator at the Placement Office.
+4. Learned Stock Market and Trading from a Summer Programme in the MnP Club in my College. Here's the [link](https://sayannil.github.io/My-Website/EndTerm%20Report.pdf) to my work in the previous term!
+5. Have done projects on Risk Management from Ernst & Young and in Real estate consulting from Property Pistol. 
 
 ### Past Time Favourites
 
